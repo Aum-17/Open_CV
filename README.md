@@ -29,5 +29,4 @@ To build a strong foundation in practical computer vision systems by implementin
 
 ---
 
-**Author:** Aum Patil  
-B.Tech – Artificial Intelligence & Data Science
+
