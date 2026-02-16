@@ -1,0 +1,23 @@
+# Ignore downloaded media
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+*.mov
+
+# Ignore model files
+*.caffemodel
+*.pb
+*.h5
+*.pt
+
+# Ignore zip files
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
